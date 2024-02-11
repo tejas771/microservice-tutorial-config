@@ -1,3 +1,6 @@
+spring:
+ application:
+   name: Confug-Default
 eureka:
   instance:
     prefer-ip-address: true
